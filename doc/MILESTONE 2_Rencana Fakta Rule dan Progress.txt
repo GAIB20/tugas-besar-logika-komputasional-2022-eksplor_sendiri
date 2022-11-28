@@ -1,0 +1,21 @@
+MILESTONE 2
+COMPLETED TASKS
+Fakta dan rule untuk papan
+Fakta dan rule untuk lokasi player
+Membeli dan menjual properti
+Giliran
+Penjara
+Dadu dan pergerakan pemain
+Chance card sesuai spek
+Sistem uang pemain
+Sistem bangkrut
+
+ONGOING TASKS
+Tambahan chancecard
+Pengimplementasian fungsi dasar chance card
+World tour
+
+UNSTARTED TASKS
+Penggabungan semua unit-unit mekanisme terpisah menjadi satu game yang lengkap
+Beberapa bonus, karena memerlukan game loop yang sudah jadi terlebih dahulu
+Parkir gratis

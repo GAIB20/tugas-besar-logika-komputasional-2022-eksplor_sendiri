@@ -1,0 +1,40 @@
+MILESTONE 1
+RENCANA FAKTA DAN RULE
+PAPAN
+Papan menggunakan array yang berisikan nama semua lokasi, lalu dibuat pula fakta panjang papan
+Fakta nama dan deskripsi lokasi langsung dimasukkan dalam rule untuk mencetak info lokasi
+Fakta harga dan biaya sewa lokasi menggunakan array yang berurutan berdasarkan harga tanah, bangunan 1, bangunan 2, bangunan 3, dan landmark.
+Rule untuk mencetak info papan ataupun info lokasi akan berkaitan dengan fakta-fakta di atas
+
+PLAYER
+Lokasi player menggunakan dynamic predicate, lalu terdapat rule untuk memajukan posisi player atau memindahkan player ke lokasi tertentu.
+Inventory properti (kota) yang dimilikinya  menggunakan dynamic predicate dan berisi array kota-kota yang dimilikinya. 
+Inventory kartu-kartu kesempatan yang dimilikinya menggunakan dynamic predicate dan merupakan array.
+Apakah sedang gilirannya, menggunakan dynamic predicate dan bisa bernilai 1 (sedang gilirannya) atau 0 (bukan gilirannya).
+Sistem keuangan pada permainan monopoli sehingga pemain bisa memiliki uang masing-masing.
+
+CHANCE CARD
+Chance card yang bisa disimpan, akan disimpan didalam sebuah inventory pemain, tetapi chance card yang sifatnya langsung, akan langsung mengupdate sesuai efek dari chance card nya
+Inventory chancecard menggunakan dynamic predicate yang akan menyimpan suatu list
+ 
+COMPLETED TASKS
+Fakta dan rule untuk papan
+Fakta dan rule untuk lokasi player
+Pondasi untuk membeli dan menjual properti
+Giliran
+Penjara
+Dadu dan pergerakan pemain
+Chance card sesuai spek
+Sistem uang pemain
+
+ONGOING TASKS
+Integrasi mekanisme uang ke mekanisme jual beli properti
+Tambahan chancecard
+Pengimplementasian fungsi dasar chance card
+Sistem bangkrut
+world tour
+
+UNSTARTED TASKS
+Penggabungan semua unit-unit mekanisme terpisah menjadi satu game yang lengkap
+Semua bonus
+parkir gratis
